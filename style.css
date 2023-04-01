@@ -213,7 +213,7 @@ a{
 
 /*                             首页                               */
 .home-page {
-    background: url('https://b.zhutix.com/bizhi/dmmz/6.jpg');
+    background: url('./image/6.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
